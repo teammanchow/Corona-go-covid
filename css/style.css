@@ -150,7 +150,7 @@ body {
   }
 }
 
-@media(max-width: 800px){
+@media(max-width: 992px){
 .symptom {
   text-align: center;
   background-color: #ff4c68;
