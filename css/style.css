@@ -176,3 +176,11 @@ h3{
 .social-icon {
   margin: 20px 10px;
 }
+@media(max-width: 800px){
+#title{
+	width:100%;
+}
+.main{
+	width:100%;
+}
+}
