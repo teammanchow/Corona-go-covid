@@ -151,18 +151,6 @@ body {
 }
 
 @media(max-width: 800px){
-  .main-left,.main-right{
-    width:100%;
-    height: 40%;
-  }
-  .text{
-    padding-top: 10%;
-    padding-left: 10%
-  }
-.main{
-	height:75%;
-	}
-}
 .symptom {
   text-align: center;
   background-color: #ff4c68;
