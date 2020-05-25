@@ -159,12 +159,9 @@ body {
     padding-top: 10%;
     padding-left: 10%
   }
-
-}
-@media(max-width: 600px){
-  .main-left,.main-right{
-    height: 25%;
-  }
+.main{
+	height:75%;
+	}
 }
 .symptom {
   text-align: center;
