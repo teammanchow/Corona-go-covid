@@ -195,14 +195,16 @@ h3 {
 }
 @media(max-width: 992px){
   .main{
-    height: 50%
+    height: 75%;
   }
   .main-left{
-    height: 80%;
+    height: 40%;
+    width: 100%;
     text-align: center;
   }
   .main-right{
-    height: 80%;
+    height: 40%;
+    width: 100%;
   }
   .text{
     padding: 0;
