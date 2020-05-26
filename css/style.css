@@ -221,3 +221,13 @@ p{
     width: 40vw;
   }
 }
+@media(max-width: 500px){
+	p{
+		font-size: 25px;
+	}
+	.img-v{
+		height: 50vw;
+		width: 50vw;
+	}
+
+}
