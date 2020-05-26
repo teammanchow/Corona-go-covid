@@ -175,6 +175,7 @@ h3 {
 .foot {
   text-align: center;
   background-color: lightgrey;
+  text-decoration: none;
 }
 
 .copy {
@@ -191,4 +192,20 @@ h3 {
 	margin-right: 0;
 	border: 0;
 	text-align: center;
+}
+@media(max-width: 992px){
+  .main{
+    height: 75%;
+  }
+  .main-left{
+    height: 40%;
+    text-align: center;
+  }
+  .main-right{
+    height: 40%;
+  }
+  .text{
+    padding: 0;
+    margin: 0;
+  }
 }
