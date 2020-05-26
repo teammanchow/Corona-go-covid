@@ -1,0 +1,104 @@
+*{
+
+	margin:0px;
+	font-family: cursive;
+
+}
+
+header{
+	background: #32F08A;
+	width:100%;
+	display: inline-block;
+	margin:0px;
+}
+
+h2{
+	padding:25px;
+	display: inline-block;
+	font-family: impact;
+	font-size: 2.5vw;
+}
+
+nav{
+	width:100%;
+	display: inline-block;
+	padding:10px;
+	height: 80px;
+	margin:0px;
+}
+
+nav ul{
+	float:right;
+	list-style: none;
+	margin-right: 10px;
+}
+nav li{
+	display: inline-block;
+	margin-left: 5px;
+	padding :25px;
+	
+	
+}
+nav a{
+	font-size: 20px;
+	color: #000;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #F71818;
+}
+
+
+.banner{
+	width: 100%;
+	display: inline-block;
+	margin:0px;
+}
+img{
+	width: 100%;
+	height:30%;
+}
+.title{ 
+	
+	width:50%;
+    padding-bottom: :20px;
+    
+  margin:0 auto;
+  padding: 10px;
+
+}
+.title h1{
+	font-family: impact;
+	font-size: 4vw;
+	font-weight: lighter;
+}
+p{
+	font-size: 1.3vw;
+	text-align-last: center;
+	font-style: italic;
+}
+.body{
+	width:50vw;
+	height: auto;
+    padding-bottom: :20px;
+    
+  margin:0 auto;
+  padding: 20px;
+  font-size:1.2vw;
+  font-family:cursive;
+}
+.body img{
+	width: 100%;
+}
+h1{
+	text-align:center;
+	font-size: 25px; 
+	padding: 20px;
+	font-family: monospace;
+	font-weight: 700;
+}
+a{
+	text-decoration: underline;
+	color: #de00a5;
+}
