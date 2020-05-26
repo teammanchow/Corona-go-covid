@@ -210,4 +210,14 @@ h3 {
     padding: 0;
     margin: 0;
   }
+  .img-v{
+    height: 40vw;
+    width: 40vw;
+  }
+  p{
+    font-size: 20px;
+  }
+  .nav-link{
+    font-size: 20px;
+  }
 }
