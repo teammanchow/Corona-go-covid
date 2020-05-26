@@ -193,12 +193,6 @@ h3 {
 	border: 0;
 	text-align: center;
 }
-p{
-    font-size: 20px;
-  }
-  .nav-link{
-    font-size: 20px;
-  }
 @media(max-width: 992px){
   .main{
     height: 75%;
@@ -220,14 +214,20 @@ p{
     height: 40vw;
     width: 40vw;
   }
+  p{
+    font-size: 20px;
+  }
+  .nav-link{
+    font-size: 20px;
+  }
 }
-@media(max-width: 500px){
-	p{
-		font-size: 25px;
-	}
-	.img-v{
-		height: 50vw;
-		width: 50vw;
-	}
-
+@media(max-width: 500px)
+{
+  p{
+    font-size: 25px;
+  }
+  .img-v{
+    height: 50vw;
+    width: 50vw;
+  }
 }
